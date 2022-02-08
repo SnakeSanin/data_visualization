@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+media/
+git_pull.py
+git_pull
+local_settings.py
+venv/
+*.sqlite3
+__pycache__/
